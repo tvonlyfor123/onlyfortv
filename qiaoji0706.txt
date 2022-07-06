@@ -1,5 +1,5 @@
 {
-  spider
+ // spider
 "spider":"https://tvonlyfor123.github.io/onlyfortv/qiaoji07061026.jar",
 
 // 直播
