@@ -1,6 +1,6 @@
 {
-// spider
-"spider":"http://gg.gg/tvboxjar",
+  spider
+"spider":"https://tvonlyfor123.github.io/onlyfortv/qiaoji07061206.jar",
 
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2dnLmdnLzExbHRlMA=="]}]}],
