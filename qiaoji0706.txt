@@ -7,7 +7,7 @@
 
 "sites":[
 {"key":"360_spider"        ,"name":"🐞360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-   {
+//{
       "key": "csp_Kmys",
       "name": "🐞酷猫影视",
       "type": 3,
